@@ -1,6 +1,3 @@
-[submodule "wasm-game-of-life-www"]
-	path = wasm-game-of-life-www
-	url = https://www.github.com/charliethomson/wasm-game-of-life-www.git
 [submodule "www"]
 	path = www
 	url = https://www.github.com/charliethomson/wasm-game-of-life-www.git
